@@ -1,2 +1,2 @@
-# Bear-Rating-Evaluation
+# Beer-Rating-Evaluation
 Analysis or Prediction of overall rating of the bear reviews
